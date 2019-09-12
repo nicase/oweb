@@ -1,3 +1,7 @@
-.hola{
-    width: 50%;
+h1{
+    margin-top: 30px;
+}
+.contenidor {
+    background-color: brown;
+    border-radius: 5px;
 }
