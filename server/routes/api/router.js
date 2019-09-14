@@ -6,7 +6,7 @@ const router = express.Router()
 // Crides get
 
 router.get('/', (req, res) => {
-    res.send('helloooo')
+    res.send('helloooo').status(200)
 })
 
 // Crides post
